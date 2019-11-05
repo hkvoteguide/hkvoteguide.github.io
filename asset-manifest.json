@@ -1,13 +1,13 @@
 {
   "main.css": "https://vote4.hk/static/css/main.20612af9.chunk.css",
-  "main.js": "https://vote4.hk/static/js/main.1e9bd5e6.chunk.js",
-  "main.js.map": "https://vote4.hk/static/js/main.1e9bd5e6.chunk.js.map",
+  "main.js": "https://vote4.hk/static/js/main.dd5a5bdd.chunk.js",
+  "main.js.map": "https://vote4.hk/static/js/main.dd5a5bdd.chunk.js.map",
   "runtime~main.js": "https://vote4.hk/static/js/runtime~main.c835e338.js",
   "runtime~main.js.map": "https://vote4.hk/static/js/runtime~main.c835e338.js.map",
-  "static/js/2.dc9dd647.chunk.js": "https://vote4.hk/static/js/2.dc9dd647.chunk.js",
-  "static/js/2.dc9dd647.chunk.js.map": "https://vote4.hk/static/js/2.dc9dd647.chunk.js.map",
+  "static/js/2.c0fd0698.chunk.js": "https://vote4.hk/static/js/2.c0fd0698.chunk.js",
+  "static/js/2.c0fd0698.chunk.js.map": "https://vote4.hk/static/js/2.c0fd0698.chunk.js.map",
   "index.html": "https://vote4.hk/index.html",
-  "precache-manifest.71b7492b3321baadead8dc526ab3259c.js": "https://vote4.hk/precache-manifest.71b7492b3321baadead8dc526ab3259c.js",
+  "precache-manifest.ebb343d48d37f5d014d906bf53e84e7a.js": "https://vote4.hk/precache-manifest.ebb343d48d37f5d014d906bf53e84e7a.js",
   "service-worker.js": "https://vote4.hk/service-worker.js",
   "static/css/main.20612af9.chunk.css.map": "https://vote4.hk/static/css/main.20612af9.chunk.css.map"
 }
