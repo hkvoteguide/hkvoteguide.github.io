@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://vote4.hk/precache-manifest.bf8365cac8881b9388f81d6a3be1a818.js"
+  "https://vote4.hk/precache-manifest.cbd640311b7c578eba03cb0ba7eb282a.js"
 );
 
 workbox.clientsClaim();
