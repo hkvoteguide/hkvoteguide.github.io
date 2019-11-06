@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/css/main.20612af9.chunk.css"
   },
   {
-    "revision": "5e787790fe0298832a9ce478d782c400",
+    "revision": "ca37245228fbe4a672603a53b0653385",
     "url": "https://vote4.hk/index.html"
   }
 ];
