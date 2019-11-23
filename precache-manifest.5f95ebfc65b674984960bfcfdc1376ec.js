@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/31.2b6dfdbc.chunk.js"
   },
   {
-    "revision": "2b2b48eff8e7911309a4",
-    "url": "https://vote4.hk/static/js/main.bc3ec4cc.chunk.js"
+    "revision": "7b68c34699a35743f36a",
+    "url": "https://vote4.hk/static/js/main.a89de782.chunk.js"
   },
   {
-    "revision": "254b7d5cd0da0cd1f160",
-    "url": "https://vote4.hk/static/js/runtime~main.303872ff.js"
+    "revision": "eebcd47507d03947e2e2",
+    "url": "https://vote4.hk/static/js/runtime~main.68c1a509.js"
   },
   {
     "revision": "368e1af0f8ef55e58462",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/14.126ed09c.chunk.js"
   },
   {
-    "revision": "22633fc461d71194eec9",
-    "url": "https://vote4.hk/static/js/15.fa989fb0.chunk.js"
+    "revision": "8105f5311f057bce829b",
+    "url": "https://vote4.hk/static/js/15.bc1c5015.chunk.js"
   },
   {
     "revision": "8eafd3d390c84b96e728",
@@ -128,11 +128,11 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/30.ddab5af9.chunk.js"
   },
   {
-    "revision": "2b2b48eff8e7911309a4",
+    "revision": "7b68c34699a35743f36a",
     "url": "https://vote4.hk/static/css/main.0cab265a.chunk.css"
   },
   {
-    "revision": "d32144902424591c272bcbeb3d9dd638",
+    "revision": "65deb5b710e26344920a7649b7ccf03e",
     "url": "https://vote4.hk/index.html"
   }
 ];
