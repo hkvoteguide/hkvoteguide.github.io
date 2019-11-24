@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/31.2b6dfdbc.chunk.js"
   },
   {
-    "revision": "d09c4b1596b7bd7d595a",
-    "url": "https://vote4.hk/static/js/main.cbb57afb.chunk.js"
+    "revision": "0c6f47def244f0bfa144",
+    "url": "https://vote4.hk/static/js/main.6fa1dccb.chunk.js"
   },
   {
-    "revision": "219a7d438f298f16c7c0",
-    "url": "https://vote4.hk/static/js/runtime~main.c0e23bd6.js"
+    "revision": "ada2d42a61ba367c23d1",
+    "url": "https://vote4.hk/static/js/runtime~main.40f942f0.js"
   },
   {
     "revision": "51c22b45162bc59b3a3d",
@@ -48,16 +48,16 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/10.3122e329.chunk.js"
   },
   {
-    "revision": "d634b83e19eae639889c",
-    "url": "https://vote4.hk/static/js/11.bc63f992.chunk.js"
+    "revision": "1ca249304659c6c28f08",
+    "url": "https://vote4.hk/static/js/11.2d9d4dd1.chunk.js"
   },
   {
     "revision": "70f7633fe217c013efd5",
     "url": "https://vote4.hk/static/js/12.dfe1871a.chunk.js"
   },
   {
-    "revision": "ce5b958b6aa20dd4e620",
-    "url": "https://vote4.hk/static/js/13.8806dac7.chunk.js"
+    "revision": "1f5681b4d2305b0f7c5f",
+    "url": "https://vote4.hk/static/js/13.659e1436.chunk.js"
   },
   {
     "revision": "29816982f20b84216083",
@@ -128,11 +128,11 @@ self.__precacheManifest = [
     "url": "https://vote4.hk/static/js/30.a3b337b4.chunk.js"
   },
   {
-    "revision": "d09c4b1596b7bd7d595a",
+    "revision": "0c6f47def244f0bfa144",
     "url": "https://vote4.hk/static/css/main.0cab265a.chunk.css"
   },
   {
-    "revision": "3c44a9c9966881a909aaf41f10389a05",
+    "revision": "0bbb6047d341b173e643b74c77000ce5",
     "url": "https://vote4.hk/index.html"
   }
 ];
